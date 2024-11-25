@@ -1,4 +1,4 @@
-# react-native-accessibility
+# React Native Accessibility
 
 Example of accessibility with react-native for dotnet malaga 2024
 
